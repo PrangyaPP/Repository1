@@ -6,6 +6,8 @@ public class Testing {
 		// TODO Auto-generated method stub
 System.out.println("Hello java");
 System.out.println("new line added");
+System.out.println("new line added for branch testing");
+
 	}
 
 }
